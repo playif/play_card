@@ -1,4 +1,4 @@
-import "package:play_phaser/phaser.dart";
+part of play_card;
 
 class Card {
   Card() {

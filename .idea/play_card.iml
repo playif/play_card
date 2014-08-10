@@ -5,6 +5,8 @@
       <excludeFolder url="file://$MODULE_DIR$/packages/play_card" />
       <excludeFolder url="file://$MODULE_DIR$/web/packages" />
     </content>
+    <content url="file://E:/play_phaser" />
+    <content url="file://E:/play_pixi" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="application" />
