@@ -1,7 +1,6 @@
 part of play_card;
 
-class Card {
-  Card() {
-
+class Fan {
+  Fan() {
   }
 }
