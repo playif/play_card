@@ -1,0 +1,5 @@
+name: play_card
+dependencies:
+  browser: any
+  play_phaser:
+    path: "E:/play_phaser"
