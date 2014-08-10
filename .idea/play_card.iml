@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/packages/play_card" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/play_phaser" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/play_pixi" />
       <excludeFolder url="file://$MODULE_DIR$/web/packages" />
     </content>
     <content url="file://E:/play_phaser" />
